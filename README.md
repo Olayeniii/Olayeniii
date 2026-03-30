@@ -2,11 +2,10 @@
 
 <br/>
 
-# olayeniii
+# Ifeolayeni
 
 <sub>javascript · react · backend systems · automation</sub>
 
-<br/>
 <br/>
 
 </div>
@@ -18,10 +17,11 @@
 <td width="50%" valign="top">
 
 **current**
+
 ```
 role        building tools + systems
 focus       automation, apps, backend
-location    Lagos, NG
+location    ADK, NG
 status      active
 ```
 
@@ -30,7 +30,7 @@ status      active
 
 **activity**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olayeniii&show_icons=false&hide_title=true&hide_border=true&hide=stars&count_private=true&theme=transparent&text_color=888888&title_color=888888&rank_icon=github)
+![GitHub Stats](ifeolayeni-stats.vercel.app)
 
 </td>
 </tr>
@@ -43,10 +43,11 @@ status      active
 <td width="50%" valign="top">
 
 **thinking**
+
 ```
 currently   system design, on-chain tooling
 reading     distributed systems
-building    mint bots, automation pipelines
+building    mini apps, automation pipelines
 principle   structure before speed
 ```
 
@@ -55,7 +56,7 @@ principle   structure before speed
 
 **languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olayeniii&layout=compact&hide_title=true&hide_border=true&theme=transparent&text_color=888888&title_color=888888&langs_count=5&card_width=300)
+![Top Languages](ifeolayeni-stats.vercel.app)
 
 </td>
 </tr>
@@ -66,6 +67,7 @@ principle   structure before speed
 <sub>
 
 **logs**
+
 ```
 2026  refining backend patterns, building in public
 2025  shipped mint bots, automation tools, internal utilities

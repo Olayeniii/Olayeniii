@@ -21,7 +21,7 @@
 ```
 role        building tools + systems
 focus       automation, apps, backend
-location    ADK, NG
+Timezone    UTC+1
 status      active
 ```
 

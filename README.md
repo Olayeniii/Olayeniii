@@ -56,7 +56,7 @@ principle   structure before speed
 
 **languages**
 
-<img width="300" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Olayeniii&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Olayeniii&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 </td>
 </tr>

@@ -30,7 +30,7 @@ status      active
 
 **activity**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olayeniii&theme=dark)](https://github.com/Olayeniii)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Olayeniii&theme=dark-dimmed)
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ principle   structure before speed
 
 **languages**
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olayeniii&layout=donut&theme=dark)](https://github.com/Olayeniii)
+![Top Languages](https://github-readme-stats-git-main-rishav-kusmas-projects.vercel.app/api/top-langs/?username=Olayeniii&layout=compact&theme=dark)
 
 </td>
 </tr>

@@ -30,7 +30,7 @@ status      active
 
 **activity**
 
-![GitHub Stats](https://camo.githubusercontent.com/0db564b417af7fe1875008bac0ace702fbe1e34a2ca483591dee7541fc248f70/68747470733a2f2f67682d70726f66696c652d73746174732e7a6c69333975636c616e2e776f726b6572732e6465762f73746174733f757365726e616d653d6c786361646f7a6139393326616363656e743d6666386334322663656c6c3d73717561726526686964655f626f726465723d74727565)
+![GitHub Stats](https://github-readme-stats.zli39uclan.workers.dev/stats?username=olayeniii&accent=ff8c42&cell=square&hide_border=true)
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ principle   structure before speed
 
 **languages**
 
-![Top Languages](https://camo.githubusercontent.com/17a515a15e8925f67ce9ff4c70f8bb498816fbcd9cd8fb84df456e73cacf9234/68747470733a2f2f67682d70726f66696c652d73746174732e7a6c69333975636c616e2e776f726b6572732e6465762f746f702d6c616e67733f757365726e616d653d6c786361646f7a6139393326616363656e743d6666386334322663656c6c3d73717561726526686964655f626f726465723d74727565)
+![Top Languages](https://github-readme-stats.zli39uclan.workers.dev/top-langs?username=olayeniii&accent=ff8c42&cell=square&hide_border=true)
 
 </td>
 </tr>
